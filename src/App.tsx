@@ -1,9 +1,12 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { 
-  Beaker, Microscope, Zap, RefreshCw, Languages, 
-  FlaskConical, Droplets, Thermometer, ClipboardList,
-  ShieldCheck, Box, Layers, Clock, Percent, TrendingUp,
-  ChevronRight, Info, AlertCircle, Calendar
+  Beaker,
+  Zap,
+  RefreshCw,
+  FlaskConical,
+  ClipboardList,
+  AlertCircle,
+  Calendar
 } from 'lucide-react';
 
 /**
